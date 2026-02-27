@@ -1,5 +1,5 @@
 <?php
-$host = 'localhost';
+$host = '172.10.10.1';
 $dbname = 'de_projek';
 $username = 'root';
 $password = '';
